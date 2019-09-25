@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 vellore
+=======
+vellore
+tamilnadu
+india
+>>>>>>> fa65f45... locating
